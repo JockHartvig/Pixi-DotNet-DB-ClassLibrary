@@ -11,7 +11,7 @@ namespace Pixi.DB.ClassLibrary
     public class Class1
     {
 
-
+        //
         void LocalProc()
         {
             using (var scope = new TransactionScope())
